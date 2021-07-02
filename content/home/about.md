@@ -49,9 +49,9 @@ weight= 100
 
 ## LSU Pathways has classes for both middle school and high school. Click on a link below to learn more. <br></br>
 
-<!-- Figure out how to get photos hosted here, also figure out photo captions -->
+<!-- Figure out how to get photos hosted here, also figure out photo captions and table? This doesn't line up well on mobile or different size screens -->
 
- <img src="https://news.yale.edu/sites/default/files/styles/featured_media/public/funbotics_ynews.jpg?itok=c5msoyzg&c=07307e7d6a991172b9f808eb83b18804" style="float: left" alt="Placeholder" width="450" height="300"> <img src="https://media.edutopia.org/styles/responsive_1100px_original/s3/masters/d7_images/cover_media/davis-169hero2-teachcode-twenty20.jpg" style="float: right" alt="Placeholder2" width="450" height="300"> 
+ <img src="https://news.yale.edu/sites/default/files/styles/featured_media/public/funbotics_ynews.jpg?itok=c5msoyzg&c=07307e7d6a991172b9f808eb83b18804" style="float: left" alt="Placeholder" width="600" height="300"> <img src="https://media.edutopia.org/styles/responsive_1100px_original/s3/masters/d7_images/cover_media/davis-169hero2-teachcode-twenty20.jpg" style="float: right" alt="Placeholder2" width="600" height="300"> 
 
 
 </center>
