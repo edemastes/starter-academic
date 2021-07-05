@@ -10,7 +10,7 @@ headless: true
 weight: 66
 
 title: Pathways Curriculum 
-# subtitle: ''
+subtitle: LSU Pathways has classes for both middle school and high school. Click on a link below to learn more.
 
 content:
   # Page type to display. E.g. project.
@@ -24,9 +24,9 @@ content:
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
+  # filter_button:
+  # - name: All
+  #   tag: '*'
   # - name: Deep Learning
   #   tag: Deep Learning
   # - name: Other
@@ -46,9 +46,3 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: true
 ---
-
-<center>
-
-## LSU Pathways has classes for both middle school and high school. Click on a link below to learn more. <br></br>
-
-</center>

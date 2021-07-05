@@ -45,7 +45,7 @@ title = "Interested in getting involved?"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["100px", "0px", "20px", "0"]
  
 [advanced]
  # Custom CSS. 
@@ -78,8 +78,8 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 <br>
 
 <!-- make a better link button -->
-
- <button>Learn More Here </button>
+ <a href="getinvolved/"><button>Learn More Here </button></a> 
+ 
 
 
 
