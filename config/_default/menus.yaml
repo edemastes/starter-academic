@@ -11,7 +11,7 @@ main:
     url: 'about/'
     weight: 20
   - name: Curriculum
-    url: '#curriculum'
+    url: 'classes/'
     weight: 30
   - name: Get Involved
     url: 'getinvolved/'

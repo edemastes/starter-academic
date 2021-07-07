@@ -10,7 +10,7 @@ active = true  # Activate this widget? true/false
 weight = 150  # Order that this section will appear.
 
 title = "Interested in getting involved?"
-# subtitle = 
+# subtitle = "Find out how to become affiliated with **LSU Pathways**"
 
 
 [design]
@@ -81,7 +81,7 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
  <a href="getinvolved/"><button>Learn More Here </button></a> 
  
 
-
+<br>
 
 
 </center>

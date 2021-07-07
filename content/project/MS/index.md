@@ -13,4 +13,4 @@ image:
   focal_point: Smart
 ---
 
-LSU Pathways for middle school conists of introductory courses designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four pathways a student may choose.
+LSU Pathways for middle school consists of introductory courses designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four pathways a student may choose.
