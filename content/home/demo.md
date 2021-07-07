@@ -78,6 +78,7 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 
 <!-- figure out how to host the photos here instead of img src link -->
 
+
  <img src="https://media.edutopia.org/styles/responsive_1100px_original/s3/masters/d7_images/cover_media/davis-169hero2-teachcode-twenty20.jpg" alt="Placeholder" width="800" height="700"> 
  <br></br>
 
