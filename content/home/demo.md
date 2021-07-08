@@ -74,12 +74,12 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 <center>
 
 ## LSU Pathways is a program designed for K-12 students in the Louisiana public school system to get hands-on training with STEM subjects in biomedical sciences, computing, digital design and emergent media, and engineering. LSU partners with schools across the state to prepare teachers, students, and administrative staff for the curriculum.
-<br></br>
+<br>
 
 <!-- figure out how to host the photos here instead of img src link -->
 
 
- <img src="https://media.edutopia.org/styles/responsive_1100px_original/s3/masters/d7_images/cover_media/davis-169hero2-teachcode-twenty20.jpg" alt="Placeholder" width="800" height="700"> 
- <br></br>
+ <!-- <img src="https://media.edutopia.org/styles/responsive_1100px_original/s3/masters/d7_images/cover_media/davis-169hero2-teachcode-twenty20.jpg" alt="Placeholder" width="800" height="700"> 
+ <br></br> -->
 
 </center>

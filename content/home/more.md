@@ -83,5 +83,4 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 
 <br>
 
-
 </center>

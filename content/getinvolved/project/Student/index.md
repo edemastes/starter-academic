@@ -1,39 +1,38 @@
 ---
-widget: blank
-headless: true
-# header:
-#   image: "wp6475723.jpg"
-# ... Put Your Section Options Here (title etc.) ...
-# title: LSU Pathways Classes
-# subtitle:
-weight: 10  # section position on page
-design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+title: Students
+summary: 
+# tags:
+# - Deep Learning
+date: "2016-04-27T00:00:00Z"
+
+# Optional external URL for project (replaces project detail page).
+external_link: ""
+
+image:
+  caption: Placeholder
+  focal_point: Smart
+
+# links:
+# - icon: twitter
+#   icon_pack: fab
+#   name: Follow
+#   url: https://twitter.com/georgecushen
+# url_code: ""
+# url_pdf: ""
+# url_slides: ""
+# url_video: ""
+
+# Slides (optional).
+#   Associate this project with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
+#   Otherwise, set `slides = ""`.
+# slides: example
 ---
 
-<!-- {{< spoiler text="Click to view the spoiler" >}}
-You found me!
-{{< /spoiler >}} -->
-
-## **LSU Pathways has courses for both middle and high school students.** 
-
-## LSU Pathways for middle school consists of introductory courses designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four pathways a student may choose. 
+## LSU Pathways for high school is a robust curriulum designed for students to decide on a preferred course of study. Students can choose from a pathway in engineering, computing, digital design and emergent media, and biomedical sciences. 
 <br>
 
-{{< spoiler text="Introduction to STEM for Middle School" >}}
-![Intro](Introduction%20to%20STEM%20Pathways%20Overview%20and%20Objectives%20Summary%20(1).png)
-{{< /spoiler >}}
-
-<br>
-
-
-
-<br>
-
-## LSU Pathways for high school is a robust curriulum designed for students to decide on a preferred course of study. Students can choose from one of four pathways. 
-
-<br>
 {{< spoiler text="Engineering" >}}
 
    #### Core Courses:
@@ -209,8 +208,3 @@ You found me!
 
 
 {{< /spoiler >}}
-
-<br>
-
-![placeholder](placeholder%20hs.jpg)
-<!-- ![placeholder](placeholder%20curriculum%20ms.jpg)  -->

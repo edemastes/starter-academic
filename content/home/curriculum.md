@@ -23,7 +23,7 @@ subtitle = "LSU Pathways has courses for both middle school and high school. Cli
   
   # [[content.filter_button]]
   #  name = "All"
-  #  tag = "*"
+  # tag = "*"
   
   # [[content.filter_button]]
   #  name = "Core Courses"
