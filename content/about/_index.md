@@ -1,8 +1,8 @@
 ---
 widget: blank
 headless: true
-# header:
-#   image: "wp6475723.jpg"
+header:
+  image: "header.jpg"
 # ... Put Your Section Options Here (title etc.) ...
 # title: About LSU Pathways
 # subtitle:

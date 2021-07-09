@@ -1,8 +1,8 @@
 ---
 widget: blank
 headless: true
-# header:
-#   image: "wp6475723.jpg"
+header:
+  image: "header.jpg"
 # ... Put Your Section Options Here (title etc.) ...
 # title: LSU Pathways Classes
 # subtitle:
@@ -16,7 +16,7 @@ design:
 You found me!
 {{< /spoiler >}} -->
 
-## **LSU Pathways has courses for both middle and high school students.** 
+## **LSU Pathways has courses for both middle and high school.** 
 
 ## LSU Pathways for middle school consists of introductory courses designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four pathways a student may choose. 
 <br>
@@ -212,5 +212,5 @@ You found me!
 
 <br>
 
-![placeholder](placeholder%20hs.jpg)
+<!-- ![placeholder](placeholder%20hs.jpg) -->
 <!-- ![placeholder](placeholder%20curriculum%20ms.jpg)  -->
