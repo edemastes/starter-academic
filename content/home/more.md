@@ -78,7 +78,7 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 <br>
 
 <!-- make a better link button -->
- <a href="getinvolved/"><button>Learn More Here </button></a> 
+ <a href="getinvolved/"><button> Learn More Here  </button></a> 
  
 
 <br>

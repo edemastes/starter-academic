@@ -60,4 +60,6 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 
 <br></br>
 
+## LSU Pathways in the news:
+
 {{< video src="LPB-Rethinking-Education.mp4" controls="yes" >}}
