@@ -1,10 +1,10 @@
 ---
-title: School Administrators
+title: Students
 summary: 
 tags:
 # - Demo
 date: "2016-04-27T00:00:00Z"
-weight: 40
+weight: 10
 # Optional external URL for project (replaces project detail page).
 # external_link: http://example.org
 
