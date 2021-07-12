@@ -32,7 +32,7 @@ title = "**Interested in getting involved?**"
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "9.png"  # Name of image in `static/media/`.
+  image = "14.png"  # Name of image in `static/media/`.
    # image_darken = 1
 
    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
