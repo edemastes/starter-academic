@@ -9,7 +9,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 150  # Order that this section will appear.
 
-title = "Interested in getting involved?"
+title = "**Interested in getting involved?**"
 # subtitle = "Find out how to become affiliated with **LSU Pathways**"
 
 
@@ -32,7 +32,7 @@ title = "Interested in getting involved?"
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "wp6475723.jpg"  # Name of image in `static/media/`.
+  image = "9.png"  # Name of image in `static/media/`.
    # image_darken = 1
 
    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -41,7 +41,7 @@ title = "Interested in getting involved?"
   # image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -80,7 +80,6 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 <!-- make a better link button -->
  <a href="getinvolved/"><button> Learn More Here  </button></a> 
  
-
 <br>
 
 </center>

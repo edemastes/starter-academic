@@ -31,7 +31,7 @@ title = "**LSU Pathways** STEM Certification"
   # gradient_end = "ForestGreen"
   
   # Background image.
-  image = "wp6475723.jpg"  # Name of image in `static/media/`.
+  image = "9.png"  # Name of image in `static/media/`.
    # image_darken = 1
 
    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -40,7 +40,7 @@ title = "**LSU Pathways** STEM Certification"
   # image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
-  text_color_light = true
+  text_color_light = false
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
@@ -73,7 +73,10 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 <!-- [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/). -->
 <center>
 
-## LSU Pathways is a program designed for K-12 students in the Louisiana public school system to get hands-on training with STEM subjects in biomedical sciences, computing, digital design and emergent media, and engineering. LSU partners with schools across the state to prepare teachers, students, and administrative staff for the curriculum.
+## LSU Pathways is a program designed for K-12 students in the Louisiana public school system to get hands-on training with STEM subjects in biomedical sciences, computing, digital design and emergent media, and engineering. 
+
+## LSU partners with schools across the state to prepare teachers, students, and administrative staff for the curriculum.
+
 <br>
 
 <!-- figure out how to host the photos here instead of img src link -->
