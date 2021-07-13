@@ -1,10 +1,12 @@
 ---
-title: School Administrators
-summary: 
-tags:
-# - Demo
-date: "2016-04-27T00:00:00Z"
-weight: 40
+title: Become a Pathways School
+header:
+  image: "header.jpg"
+# summary: 
+# tags:
+# # - Demo
+# date: "2016-04-27T00:00:00Z"
+weight: 25
 # Optional external URL for project (replaces project detail page).
 # external_link: http://example.org
 
@@ -13,8 +15,15 @@ weight: 40
 #   focal_point: Smart
 ---
 
-## LSU Pathways for middle school consists of introductory courses designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four pathways a student may choose.
-<br>
+## Interested in having your school become a Pathways affiliate? Click on a link below to learn more.
+<br></br>
+<a href="Middle%20School%202021%20LSU%20Pathways%20Invitation.pdf)"><button style= "background-color:#44c3b4; border-color: #44c3b4"> Middle School Invitation </button></a> <a href="High%20School%202021%20LSU%20Pathways%20Invitation.docx.pdf"><button style= "background-color:#44c3b4; border-color: #44c3b4"> High School Invitation </button></a> <a href="LSU%202021-22%20Pathway%20MOU.pdf"><button style= "background-color:#44c3b4; border-color: #44c3b4"> Join STEM Pathways </button></a> 
+<br></br>
 
-![Intro](../../classes/Introduction%20to%20STEM%20Pathways%20Overview%20and%20Objectives%20Summary%20(1).png)
+
+![](../../../about/about%204.png)
+
+![](../../../about/About%202.png)
+
+
 
