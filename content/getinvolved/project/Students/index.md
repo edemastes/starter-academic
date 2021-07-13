@@ -1,9 +1,11 @@
 ---
-title: Students
-summary: 
-tags:
+title: Study with Pathways
+# summary: 
+# tags:
 # - Demo
-date: "2016-04-27T00:00:00Z"
+header:
+  image: "header.jpg"
+# date: "2016-04-27T00:00:00Z"
 weight: 10
 # Optional external URL for project (replaces project detail page).
 # external_link: http://example.org
@@ -13,8 +15,21 @@ weight: 10
 #   focal_point: Smart
 ---
 
-## LSU Pathways for middle school consists of introductory courses designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four pathways a student may choose.
+<!-- ![](../../../curriculum/placeholder%20hs.jpg) -->
+
+## LSU Pathways helps students learn engaging and marketable skills in STEM subjects. To learn more, click on a link below. 
 <br>
 
-![Intro](../../classes/Introduction%20to%20STEM%20Pathways%20Overview%20and%20Objectives%20Summary%20(1).png)
+<a href="PathwayChart.pdf"><button style= "background-color:#44c3b4; border-color: #44c3b4"> Pathways STEM Courses </button></a> 
+<a href="CourseDescriptions2020March_24.pdf"><button style= "background-color:#44c3b4; border-color: #44c3b4"> In-Depth Course Descriptions </button></a> 
 
+<br>
+
+## Please also review our curriculum page to compare programs. 
+
+<br>
+<a href="/curriculum/"><button style= "background-color:#44c3b4; border-color: #44c3b4"> View Curriculum Page </button></a> 
+
+<!-- <br></br> -->
+
+<!-- ![](../../../curriculum/placeholder%20hs.jpg) -->
