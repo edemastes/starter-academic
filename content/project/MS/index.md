@@ -1,12 +1,13 @@
 ---
 title: Middle School
 summary: 
+weight: 3
 header:
   image: "header.jpg"
 # tags:
 # # - Demo
 # date: "2016-04-27T00:00:00Z"
-weight: 40
+
 # Optional external URL for project (replaces project detail page).
 # external_link: http://example.org
 
