@@ -1,5 +1,4 @@
 +++
-
 # A Demo section created with the Blank widget.
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
@@ -7,10 +6,10 @@
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 150  # Order that this section will appear.
+weight = 16  # Order that this section will appear.
 
-title = "**Interested in getting involved?**"
-# subtitle = "Find out how to become affiliated with **LSU Pathways**"
+title = "**LSU Pathways** STEM Certification"
+# subtitle = 
 
 
 [design]
@@ -25,14 +24,14 @@ title = "**Interested in getting involved?**"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#461D7C"
+  color = "#461D7C "
   
   # Background gradient.
   # gradient_start = "DarkGreen"
   # gradient_end = "ForestGreen"
   
   # Background image.
- # image = "yellow stripes copy.jpg"  # Name of image in `static/media/`.
+   # image = "yellow stripes copy.jpg"  # Name of image in `static/media/`.
    # image_darken = 1
 
    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
@@ -45,7 +44,7 @@ title = "**Interested in getting involved?**"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["100px", "0px", "20px", "0"]
+  padding = ["20px", "0", "20px", "0"]
  
 [advanced]
  # Custom CSS. 
@@ -74,12 +73,18 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 <!-- [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/). -->
 <center>
 
-## If you're a student, teacher, parent, or a school administrator and are interested in learning how to get involved with LSU Pathways, follow the link below.
+
+## LSU Pathways is a program designed for K-12 students in the Louisiana public school system to get hands-on training with STEM subjects in biomedical sciences, computing, digital design and emergent media, and engineering. 
+
+
+## LSU partners with schools across the state to prepare teachers, students, and administrative staff for the curriculum.
+
 <br>
 
-<!-- make a better link button -->
- <a href="getinvolved/"><button> Learn More Here  </button></a> 
- 
-<br>
+<!-- figure out how to host the photos here instead of img src link -->
+
+
+ <!-- <img src="https://media.edutopia.org/styles/responsive_1100px_original/s3/masters/d7_images/cover_media/davis-169hero2-teachcode-twenty20.jpg" alt="Placeholder" width="800" height="700"> 
+ <br></br> -->
 
 </center>

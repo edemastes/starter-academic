@@ -34,41 +34,48 @@ You found me!
 ## LSU Pathways for high school is a robust curriulum designed for students to decide on a preferred course of study. Students can choose from one of four pathways. 
 
 <br>
-{{< spoiler text="Engineering" >}}
 
+{{< spoiler text="Biomedical Sciences" >}}
    #### Core Courses:
-   - Intro to Engineering Design (DE)
+   - Intro to Biomedical Sciences
    - Intro to Computational Thinking for STEM
-   - Robotics
+   - Comparative Anatomy & Physiology
    - One from:
-      - Engineering Design and Development
-      - Principles of Engineering
+     - Biomedical Capstone
+     - Data Manipulation and Analysis
 
-   #### LSU Electives:
-   - Engineering Economy
-   - Principles of Engineering
-   - Engineering Design and Development
-   - Programming for Engineers
-   - Data Manipulation and Analysis
+  #### LSU Electives:
+   - Forensic Science
+   - Genetics
+   - Bioinformatics
+   - Conservation Biology
 
    #### Other LSU Electives:
-   - Statistical Reasoning
-   - Engineering Economy
-   - Programming for Engineers
-
+   - Data Manipulation and Analysis
+   - Biomedical Capstone
+   - Biology II DE
+   - One from:
+     - AP Biology
+     - Biology II
+     - Biology DE
+   - One from:
+     - Chemistry II
+     - AP Chemistry
+     - Chemistry I DE
+  
    #### Other Approved Electives:
-   - AP Calculus AB
-   - AP Calculus BC
-   - AP Statistics or AP Statistic
-   - AP Computer Science Principles
-   - AP Computer Science A
-   - Photography I
-   - Photography II
-   - AP Studio Art 3-D Design
+   - Environmental Science or AP Environmental Science
+   - Statistical Reasoning or AP Statistics
+   - Nurse Assistant
+   - Introduction to Health Occupation
+   - Medical Terminology
+   - Psychology or AP Psychology
+   - Anatomy and Physiology
+   - First Responder/Emergency Medical Responder
+   - Emergency Medical Technician
+   - Workplace Safety
 
-
------
-
+------
 
 {{< /spoiler >}}
 
@@ -163,53 +170,40 @@ You found me!
 
 
 {{< /spoiler >}}
-{{< spoiler text="Biomedical Sciences" >}}
-   #### Core Courses:
-   - Intro to Biomedical Sciences
-   - Intro to Computational Thinking for STEM
-   - Comparative Anatomy & Physiology
-   - One from:
-     - Biomedical Capstone
-     - Data Manipulation and Analysis
 
-  #### LSU Electives:
-   - Forensic Science
-   - Genetics
-   - Bioinformatics
-   - Conservation Biology
+{{< spoiler text="Pre-Engineering" >}}
+
+   #### Core Courses:
+   - Intro to Engineering Design (DE)
+   - Intro to Computational Thinking for STEM
+   - Robotics
+   - One from:
+      - Engineering Design and Development
+      - Principles of Engineering
+
+   #### LSU Electives:
+   - Engineering Economy
+   - Principles of Engineering
+   - Engineering Design and Development
+   - Programming for Engineers
+   - Data Manipulation and Analysis
 
    #### Other LSU Electives:
-   - Data Manipulation and Analysis
-   - Biomedical Capstone
-   - Biology II DE
-   - One from:
-     - AP Biology
-     - Biology II
-     - Biology DE
-   - One from:
-     - Chemistry II
-     - AP Chemistry
-     - Chemistry I DE
-  
+   - Statistical Reasoning
+   - Engineering Economy
+   - Programming for Engineers
+
    #### Other Approved Electives:
-   - Environmental Science or AP Environmental Science
-   - Statistical Reasoning or AP Statistics
-   - Nurse Assistant
-   - Introduction to Health Occupation
-   - Medical Terminology
-   - Psychology or AP Psychology
-   - Anatomy and Physiology
-   - First Responder/Emergency Medical Responder
-   - Emergency Medical Technician
-   - Workplace Safety
-
-
-
-
-
+   - AP Calculus AB
+   - AP Calculus BC
+   - AP Statistics or AP Statistic
+   - AP Computer Science Principles
+   - AP Computer Science A
+   - Photography I
+   - Photography II
+   - AP Studio Art 3-D Design
 
 {{< /spoiler >}}
-
 <br>
 
 <!-- ![placeholder](placeholder%20hs.jpg) -->

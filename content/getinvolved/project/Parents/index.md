@@ -19,8 +19,8 @@ weight: 30
 ## Are you interested in having your child become a Pathways student? Click on a link below to learn more. 
 <br>
 
-<a href="../../../curriculum/PathwayChart.pdf"><button style= "background-color:#44c3b4; border-color: #44c3b4"> Pathways STEM Courses </button></a> 
-<a href="../../../curriculum/CourseDescriptions2020March_24.pdf"><button style= "background-color:#44c3b4; border-color: #44c3b4"> In-Depth Course Descriptions </button></a> <br></br>
+<a href="../../../curriculum/PathwayChart.pdf"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways STEM Courses </button></a> 
+<a href="../../../curriculum/CourseDescriptions2020March_24.pdf"><button style= "background-color:#fdd023; border-color: #fdd023"> In-Depth Course Descriptions </button></a> <br></br>
 
 
 ## If your child is in middle school, they may be interested in getting started with the Introduction to STEM Pathways program.
@@ -35,4 +35,4 @@ weight: 30
 ## Please also review our curriculum page to get acquainted with the course offerings.
 <br>
 
-<a href="/curriculum/"><button style= "background-color:#44c3b4; border-color: #44c3b4"> LSU Pathways Curriculum </button></a> 
+<a href="/curriculum/"><button style= "background-color:#fdd023; border-color: #fdd023"> LSU Pathways Curriculum </button></a> 

@@ -20,15 +20,15 @@ weight: 10
 ## LSU Pathways helps students learn engaging and marketable skills in STEM subjects. To learn more, click on a link below. 
 <br>
 
-<a href="PathwayChart.pdf"><button style= "background-color:#44c3b4; border-color: #44c3b4"> Pathways STEM Courses </button></a> 
-<a href="CourseDescriptions2020March_24.pdf"><button style= "background-color:#44c3b4; border-color: #44c3b4"> In-Depth Course Descriptions </button></a> 
+<a href="PathwayChart.pdf"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways STEM Courses </button></a> 
+<a href="CourseDescriptions2020March_24.pdf"><button style= "background-color:#fdd023; border-color: #fdd023"> In-Depth Course Descriptions </button></a> 
 
 <br>
 
 ## Please also review our curriculum page to compare programs. 
 
 <br>
-<a href="/curriculum/"><button style= "background-color:#44c3b4; border-color: #44c3b4"> View Curriculum Page </button></a> 
+<a href="/curriculum/"><button style= "background-color:#fdd023; border-color: #fdd023"> View Curriculum Page </button></a> 
 
 <!-- <br></br> -->
 

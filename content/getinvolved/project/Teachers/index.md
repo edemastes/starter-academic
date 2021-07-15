@@ -35,6 +35,6 @@ external_link: ""
 ## LSU Pathways trains teachers in rigorous STEM curriculum pedagogy. Click a link below to learn more. 
 <br>
 
-<a href="High%20School%202021%20LSU%20Pathways%20Invitation.docx.pdf"><button style= "background-color:#44c3b4; border-color: #44c3b4"> High School Pathways Invitation </button></a> 
+<a href="High%20School%202021%20LSU%20Pathways%20Invitation.docx.pdf"><button style= "background-color:#fdd023; border-color: #fdd023"> High School Pathways Invitation </button></a> 
 
 

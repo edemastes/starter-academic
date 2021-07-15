@@ -7,7 +7,7 @@
 
 theme: minimal
 day_night: false
-font: 'helvetica'
+font: 'Proxima Nova ' #LSU approved font, need to figure out how to make font set
 font_size: m
 
 # SEO

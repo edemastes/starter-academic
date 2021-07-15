@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Pathways Curriculum"
-subtitle = "LSU Pathways has courses for both middle school and high school. Click on a link to learn more."
+subtitle = "LSU Pathways has courses for elementary, middle, and high school. Click on a link to learn more."
 
 [content]
   # Page type to display. E.g. project.
@@ -43,14 +43,14 @@ subtitle = "LSU Pathways has courses for both middle school and high school. Cli
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns = "2"
+  columns = "1"
 
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false

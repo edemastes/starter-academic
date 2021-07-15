@@ -11,9 +11,6 @@ design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
 ---
-<!-- {{< spoiler text="Click to view the spoiler" >}}
-You found me!
-{{< /spoiler >}} -->
 
 ## **More about LSU Pathways** 
 
@@ -23,10 +20,11 @@ You found me!
 
  In addition to taking courses in the four core subject areas of English, math, science, and social studies, students who participate in the LSU Pathways curriculum can choose to take courses in one of the following subject areas: 
 
- - Engineering
- - Digital Design and Emergent Media
- - Computing
- - Biomedical Sciences
+  - Biomedical Sciences
+  - Computing
+  - Digital Design and Emergent Media
+  - Pre-Engineering
+ 
 
 <br>
 
@@ -55,10 +53,15 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 
 - School districts with additional state funding.
 
+<br>
+
+<a href="STEM%20Pathways.pdf"><button style= "background-color:#fdd023; border-color: #fdd023"> LSU Pathways Pamphlet </button></a> 
+
+
 <!-- 
 ![LSU Pathways Details](About%201.png) -->
 
-<br></br>
+<br>
 
 ## LSU Pathways in the news:
 
