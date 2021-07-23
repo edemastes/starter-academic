@@ -19,5 +19,4 @@ header:
 ## LSU Pathways for elementary school consists of introductory courses designed to help students gain a wide breadth of knowledge in preparation for choosing their preferred pathway, laying a solid groundwork for any of the four pathways a student may choose.
 <br>
 
-<!-- ![Intro to STEM Pathways](../../curriculum/Introduction%20to%20STEM%20Pathways%20Overview%20and%20Objectives%20Summary%20(1).png)
- -->
+
