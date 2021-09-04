@@ -57,20 +57,18 @@ By the end of this course, the successful student will be able to:
 {{< spoiler text="Biomedical Sciences" >}}
    #### Core Courses:
    - Intro to Biomedical Sciences
-   - Intro to Computational Thinking for STEM
+   - <a href ="syllabi/Syllabus_Intro-to-Computational-Thinking.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
    - Comparative Anatomy & Physiology
    - One from:
      - Biomedical Capstone
-     - Data Manipulation and Analysis
+     - <a href = "syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
 
   #### LSU Electives:
    - Forensic Science
    - Genetics
    - Bioinformatics
    - Conservation Biology
-
-   #### Other LSU Electives:
-   - Data Manipulation and Analysis
+   - <a href = "syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
    - Biomedical Capstone
    - Biology II DE
    - One from:
@@ -101,26 +99,26 @@ By the end of this course, the successful student will be able to:
 {{< spoiler text="Computing" >}}
 
    #### Core Courses:
-   - Intro to Computational Thinking for STEM
+   - <a href ="syllabi/Syllabus_Intro-to-Computational-Thinking.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
    - Programming Core (one from):
-     - Data Manipulation and Analysis
-     - Programming for STEM
+     - <a href = "syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
+     - <a href = "syllabi/Syllabus_Programming-for-STEM.pdf" Target ="_blank"> Programming for STEM </a>
    - Networking and Society Core (one from):
-       - Cybersecurity
+       - <a href = "syllabi/Syllabus_Cybersecurity.pdf" Target = "_blank"> Cybersecurity </a>
        - AP Computer Science Principles
    - Applications of Computing Core (one from):
-       - Survey of Computer Science
-       - Interactive Computing
+       - <a href = "syllabi/Syllabus_Survey-of-Computing.pdf" Target = "_blank"> Survey of Computer Science </a>
+       - <a href = "syllabi/Syllabus_Interactive-Computing.pdf" target = "_blank"> Interactive Computing </a>
 
    #### LSU Electives:
    - Bioinformatics
-   - Coding for the Web
-   - Cybersecurity
-   - Data Manipulation and Analysis
-   - Interactive Computing
+   - <a href = "syllabi/coding-for-the-web.pdf" target = "_blank"> Coding for the Web </a>
+   - <a href = "syllabi/Syllabus_Cybersecurity.pdf" target = "_blank"> Cybersecurity </a>
+   - <a href = "syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
+   - <a a href = "syllabi/Syllabus_Interactive-Computing.pdf" target = "_blank"> Interactive Computing </a>
    - Programming for Digital Media (DE)
-   - Programming for STEM
-   - Robotics
+   - <a href = "syllabi/Syllabus_Programming-for-STEM.pdf" Target ="_blank"> Programming for STEM </a>
+   - <a href = "syllabi/Intro to Robotics.pdf" target = "_blank"> Robotics </a>
    - Video Game Design
 
    #### Other Approved Electives:
@@ -158,21 +156,19 @@ By the end of this course, the successful student will be able to:
 {{< spoiler text="Digital Design and Emergent Media" >}}
 
   #### Core Courses:
-   - Digital Storytelling
+   - <a href = "syllabi/digital-storytelling.pdf" target = "_blank"> Digital Storytelling </a>
    - Programming for Digital Media (DE)
-   - Coding for the Web
-   - Intro to Computational Thinking for STEM
+   - <a href = "syllabi/coding-for-the-web.pdf" target = "_blank"> Coding for the Web </a>
+   - <a href ="syllabi/Syllabus_Intro-to-Computational-Thinking.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
 
   #### LSU Electives:
-   - Interactive Digital Media Capstone
-   - Sound Design (DE)
-   - Digital Image & Motion Graphics (AP Art)
+   - <a href = "syllabi/interactive-digital-media-capstone.pdf" target = "_blank"> Interactive Digital Media Capstone </a>
+   - <a href = "syllabi/sound-design.pdf" target = "_blank">Sound Design (DE)</a>
+   - <a href = "syllabi/ditigal-image-and-motion-graphics.pdf" target = "_blank"> Digital Image & Motion Graphics (AP Art) </a>
    - Basic/Advanced Film
    - Film and TV
-
-  #### Other LSU Electives:
-   - Programming for Engineers
-   - Data Manipulation and Analysis
+   - <a href = "syllabi/programming-for-engineers.pdf" target = "_blank"> Programming for Engineers </a>
+   - <a href = "syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
    - Video Game Design
 
   #### Other Approved Electives:
@@ -193,24 +189,20 @@ By the end of this course, the successful student will be able to:
 {{< spoiler text="Pre-Engineering" >}}
 
    #### Core Courses:
-   - Intro to Engineering Design (DE)
-   - Intro to Computational Thinking for STEM
-   - Robotics
+   - <a href = "syllabi/Intro to Engineering.pdf" target = "_blank"> Intro to Engineering Design (DE) </a>
+   - <a href ="syllabi/Syllabus_Intro-to-Computational-Thinking.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
+   - <a href = "syllabi/Intro to Robotics.pdf" target = "_blank"> Robotics </a>
    - One from:
-      - Engineering Design and Development
-      - Principles of Engineering
+      - <a href = "syllabi/Engineering Design and Development.pdf" target = "_blank"> Engineering Design and Development </a>
+      - <a href ="syllabi/Principles of Engineering.pdf" target = "_blank"> Principles of Engineering </a>
 
    #### LSU Electives:
    - Engineering Economy
-   - Principles of Engineering
-   - Engineering Design and Development
-   - Programming for Engineers
-   - Data Manipulation and Analysis
-
-   #### Other LSU Electives:
+   - <a href ="syllabi/Principles of Engineering.pdf" target = "_blank"> Principles of Engineering </a>
+   - <a href = "syllabi/Engineering Design and Development.pdf" target = "_blank"> Engineering Design and Development </a>
+   - <a href = "syllabi/programming-for-engineers.pdf" target = "_blank"> Programming for Engineers </a>
+   - <a href = "syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
    - Statistical Reasoning
-   - Engineering Economy
-   - Programming for Engineers
 
    #### Other Approved Electives:
    - AP Calculus AB

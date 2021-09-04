@@ -34,10 +34,92 @@ LSU STEM Pathways provides high school students with the opportunity to enroll i
 
 <!-- Under the approved state education funding formula, a school district offering a BESE-approved LSU STEM Pathway course that is taught by a trained and LSU-certified teacher receives $482 per student per course in the form of Career Tech and Career Development supplements. In the LSU STEM Pathways, the bulk of the student credentialing is not done by industry, but by LSU or ULM. -->
 
-![LSU Pathways Schools](about%204.png)
+<!-- ![LSU Pathways Schools](about%204.png) -->
 
+## Who Does LSU STEM Pathways?
+{{< spoiler text="View School List" >}}
+- Alfred M. Barbe High School
+- Amite High Magnet
+- Baker High School
+- Bastrop High School
+- Baton Rouge Magnet High School
+- Beau Chêne High School
+- Benjamin Franklin High School
+- Breaux Bridge High School
+- Broadmoor Senior High School
+- Capitol Middle School
+- Carencro High School
+- Catholic High School of Pointe Coupee
+- Central High School
+- Central Middle School
+- College and Career Center
+- Delhi Charter School
+- Denham Springs High School STEM and Robotics Center
+- Denham Springs Junior High School
+- Donaldsonville High School
+- Dutchtown High School
+- East Ascension High School
+- Einstein Charter High School
+- Eunice High School
+- General Trass High School
+- Glasgow Middle School
+- Glen Oaks Senior High School
+- Grace King High School
+- Grand Isle High School
+- Haynes Academy School for Advanced Studies
+- IDEA Bridge
+- Istrouma High School
+- Juban Parc Junior High School
+- Leesville High School
+- Liberty High School
+- Livingston Collegiate Academy
+- Livonia High School 
+- LSU Laboratory School
+- Madison High School
+- McKinley Middle Magnet School
+- McKinley Senior High School
+- Morehouse Magnet School
+- MSA East
+- MSA West
+- New Orleans Charter Science and Math High School
+- New Orleans Military & Maritime Academy
+- North Central High School
+- Northdale Superintendent’s Academy
+- Northeast High School
+- Northside High School
+- Northwest High School
+- Park Forest Middle School
+- Park Ridge Academy Magnet School
+- Point Coupee SMA
+- Ponchatoula High School
+- Port Barre High School
+- Rapides CTEP
+- Scotlandville Magnet High School
+- Scotlandville Pre-Engineering Academy
+- Sherwood Middle Academic Academy
+- Southeast Middle School
+- Southside Junior High School
+- Southwood High School
+- St. Amant High School
+- St. James SMA
+- St. John the Baptist SMA
+- St. Martinville Junior High School
+- St. Martinville Senior High School
+- Sulphur High School
+- Tara High School
+- West Feliciana Middle School
+- West Feliciana High School
+- West St. John Elementary School (K-7)
+- Westdale Middle School
+- Winnfield High School 
+- Woodlawn High School 
+- Woodlawn Middle School
+- Zachary High School
+<br>
+{{< /spoiler >}}
 
 ![LSU Pathways Map](About%202.png)
+<!-- Lee needs to be changed to Liberty here -->
 
 <br>
 From 2020 on, supported by federal funding, LSU and the East Baton Rouge Parish School System have expanded the LSU Computing Pathway to middle schools and will expand the reach of Introduction to Computational Thinking, a foundational core course in all four LSU STEM Pathways, to schools across the state. Moreover, a collaborative effort of the Louisiana Department of Education, the RAND Corporation, BloomBoard, and LSU will be rolling out Micro-Credentials for STEM Pathway teachers.
@@ -55,7 +137,7 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 
 <br>
 
-<a href="STEM%20Pathways.pdf"><button style= "background-color:#fdd023; border-color: #fdd023"> LSU Pathways Pamphlet </button></a> 
+<a href="STEM%20Pathways.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> LSU Pathways Pamphlet </button></a> 
 
 
 <!-- 
@@ -66,3 +148,7 @@ The statewide rollout of the LSU STEM Certification Pathways is a joint effort o
 ## LSU Pathways in the news:
 
 {{< video src="LPB-Rethinking-Education.mp4" controls="yes" >}}
+
+<br>
+
+<a href="https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/article_140b2d96-fc56-11eb-a23e-f705caf80b8c.html" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Read About Pathways in the Baton Rouge Advocate </button></a> 

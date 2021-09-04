@@ -1,5 +1,5 @@
 ---
-title: Study with Pathways
+title: Study with Pathways.
 # summary: 
 # tags:
 # - Demo
@@ -20,16 +20,29 @@ weight: 10
 ## LSU Pathways helps students learn engaging and marketable skills in STEM subjects. To learn more, click on a link below. 
 <br>
 
-<a href="PathwayChart.pdf"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways STEM Courses </button></a> 
-<a href="CourseDescriptions2020March_24.pdf"><button style= "background-color:#fdd023; border-color: #fdd023"> In-Depth Course Descriptions </button></a> 
+<a href="PathwayChart.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways STEM Courses </button></a> 
+<a href="CourseDescriptions2020March_24.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> In-Depth Course Descriptions </button></a> 
+<br></br>
 
+----
+
+## Learn more about each STEM pathway. 
 <br>
 
-## Please also review our curriculum page to compare programs. 
+<a href="StudentFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing  </button></a> <a href="DDEMStudentsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media  </button></a> <a href="Pre-EngineeringStudentFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering  </button></a> 
+<br></br>
 
+----
+
+## Learn more about Pathways for High School. View curriculum and syllabi.
 <br>
-<a href="/curriculum/"><button style= "background-color:#fdd023; border-color: #fdd023"> View Curriculum Page </button></a> 
+<a href="/project/high-school/" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways for High School </button></a> <br></br>
 
-<!-- <br></br> -->
+----
 
-<!-- ![](../../../curriculum/placeholder%20hs.jpg) -->
+## Learn more about Pathways for Middle School and the Introduction to STEM Pathways program.
+<br>
+
+<a href="/project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways for Middle School </button></a> <br></br>
+
+

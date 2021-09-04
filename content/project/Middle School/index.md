@@ -1,7 +1,7 @@
 ---
 title: Middle School
 summary: 
-weight: 3
+weight: 4
 header:
   image: "header.jpg"
 # tags:
@@ -40,4 +40,4 @@ By the end of this course, the successful student will be able to:
 
 
 <br>
-<a href="MiddleSchoolCohortAdministrationFlyer_updatedMarch15.pdf"> <button style= "background-color:#fdd023; border-color: #fdd023"> Middle School Pathways Introduction </button></a>
+<a href="MiddleSchoolCohortAdministrationFlyer_updatedMarch15.pdf" target="_blank"> <button style= "background-color:#fdd023; border-color: #fdd023"> Middle School Pathways Introduction </button></a>

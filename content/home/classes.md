@@ -53,7 +53,7 @@ subtitle = "LSU Pathways has courses for elementary, middle, and high school. Cl
   view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = false
+  flip_alt_rows = true
 
 [design.background]
   # Apply a background color, gradient, or image.

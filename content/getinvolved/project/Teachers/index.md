@@ -1,5 +1,5 @@
 ---
-title: Teach with Pathways
+title: Teach with Pathways.
 summary: 
 header:
   image: "header.jpg"
@@ -35,6 +35,13 @@ external_link: ""
 ## LSU Pathways trains teachers in rigorous STEM curriculum pedagogy. Click a link below to learn more. 
 <br>
 
-<a href="High%20School%202021%20LSU%20Pathways%20Invitation.docx.pdf"><button style= "background-color:#fdd023; border-color: #fdd023"> High School Pathways Invitation </button></a> 
+<a href="High%20School%202021%20LSU%20Pathways%20Invitation.docx.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> High School Pathways Invitation </button></a> 
+<br></br>
+
+----
+## Learn more about teaching with each program.
+<br>
+
+<a href="TeacherFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing  </button></a> <a href="DDEMTeachersFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media  </button></a> <a href="Pre-EngineeringTeacherFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering  </button></a> 
 
 
