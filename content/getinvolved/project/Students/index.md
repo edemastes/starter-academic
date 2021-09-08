@@ -21,15 +21,20 @@ weight: 10
 <br>
 
 <a href="PathwayChart.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways STEM Courses </button></a> 
+<br></br>
 <a href="CourseDescriptions2020March_24.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> In-Depth Course Descriptions </button></a> 
 <br></br>
 
 ----
 
-## Learn more about each STEM pathway. 
+## Learn more about each STEM pathway.
 <br>
 
-<a href="StudentFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing  </button></a> <a href="DDEMStudentsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media  </button></a> <a href="Pre-EngineeringStudentFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering  </button></a> 
+<a href="StudentFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing  </button></a> 
+<br></br>
+<a href="DDEMStudentsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media  </button></a> 
+<br></br>
+<a href="Pre-EngineeringStudentFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering  </button></a> 
 <br></br>
 
 ----

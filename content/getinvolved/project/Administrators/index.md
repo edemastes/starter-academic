@@ -17,14 +17,22 @@ weight: 25
 
 ## Interested in having your school become a Pathways affiliate? Click on a link below to learn more.
 <br>
-<a href="Middle%20School%202021%20LSU%20Pathways%20Invitation.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Middle School Invitation </button></a> <a href="High%20School%202021%20LSU%20Pathways%20Invitation.docx.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> High School Invitation </button></a> <a href="LSU%202021-22%20Pathway%20MOU.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Join STEM Pathways </button></a> 
+<a href="Middle%20School%202021%20LSU%20Pathways%20Invitation.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Middle School Invitation </button></a>
+<br></br>
+<a href="High%20School%202021%20LSU%20Pathways%20Invitation.docx.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> High School Invitation </button></a> 
+<br></br>
+<a href="LSU%202021-22%20Pathway%20MOU.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Join STEM Pathways </button></a> 
 <br></br>
 
 ---- 
 
 ## Learn more about each program.
 <br>
-<a href="GeneralCounselorFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing  </button></a> <a href="DDEMAdministratorsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media  </button></a> <a href="Pre-EngineeringAdministrationFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering  </button></a> 
+<a href="GeneralCounselorFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing  </button></a> 
+<br></br>
+<a href="DDEMAdministratorsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media  </button></a> 
+<br></br>
+<a href="Pre-EngineeringAdministrationFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering  </button></a> 
 <br></br>
 <!-- ![](../../../about/about%204.png) -->
 

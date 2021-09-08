@@ -8,7 +8,7 @@ header:
 # date: "2016-04-27T00:00:00Z"
 weight: 20
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+# external_link: ""
 
 # image:
 #   caption: Placeholder
@@ -39,9 +39,13 @@ external_link: ""
 <br></br>
 
 ----
-## Learn more about teaching with each program.
+## Learn more about teaching with each program:
 <br>
 
-<a href="TeacherFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing  </button></a> <a href="DDEMTeachersFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media  </button></a> <a href="Pre-EngineeringTeacherFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering  </button></a> 
+<a href="TeacherFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing  </button></a> 
+<br></br>
+<a href="DDEMTeachersFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media  </button></a> 
+<br></br>
+<a href="Pre-EngineeringTeacherFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering  </button></a> 
 
 
