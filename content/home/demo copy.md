@@ -74,7 +74,7 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 <center>
 
 
-![](Pathways%20Turq.png)
+
  ## LSU Pathways is a program designed for K-12 students in the Louisiana public school system to get hands-on training with STEM subjects in biomedical sciences, computing, digital design and emergent media, and pre-engineering. 
 
 
