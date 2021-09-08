@@ -73,8 +73,6 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 <!-- [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/). -->
 <center>
 
-
-
  ## LSU Pathways is a program designed for K-12 students in the Louisiana public school system to get hands-on training with STEM subjects in biomedical sciences, computing, digital design and emergent media, and pre-engineering. 
 
 
