@@ -40,20 +40,20 @@ header:
 
 {{< spoiler text="Biomedical Sciences" >}}
    #### Core Courses:
-   - Intro to Biomedical Sciences
+   - <a href="../../curriculum/syllabi/Intro to Biomed.pdf" Target ="_blank">Intro to Biomedical Sciences </a>
    - <a href ="../../curriculum/syllabi/Syllabus_Intro-to-Computational-Thinking.pdf" Target ="_blank">Intro to Computational Thinking for STEM </a>
-   - Comparative Anatomy & Physiology
+   - <a href="../../curriculum/syllabi/Comparative Anatomy.pdf" Target ="_blank">Comparative Anatomy & Physiology </a>
    - One from:
-     - Biomedical Capstone
+     - <a href="../../curriculum/syllabi/Capstone.pdf" Target ="_blank">Biomedical Capstone </a>
      - <a href = "../../curriculum/syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
 
   #### LSU Electives:
-   - Forensic Science
+   - <a href="../../curriculum/syllabi/Forensics.pdf" Target ="_blank">Forensic Science </a>
    - Genetics
    - Bioinformatics
    - Conservation Biology
    - <a href = "../../curriculum/syllabi/data-manipulation-and-analysis.pdf" target="_blank"> Data Manipulation and Analysis </a>
-   - Biomedical Capstone
+   - <a href="../../curriculum/syllabi/Capstone.pdf" Target ="_blank">Biomedical Capstone </a>
    - Biology II DE
    - One from:
      - AP Biology
