@@ -2,7 +2,7 @@
 title: Elementary School
 summary: 
 weight: 3
-header:
+header: 
   image: "header.jpg"
 # tags:
 # # - Demo
