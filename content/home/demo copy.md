@@ -8,7 +8,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 16  # Order that this section will appear.
 
-title = "**LSU Pathways** STEM Certification"
+ title = "**LSU Pathways** STEM Certification"
 # subtitle = 
 
 
@@ -24,27 +24,28 @@ title = "**LSU Pathways** STEM Certification"
   #   Any HTML color name or Hex value is valid.
 
   # Background color.
-  color = "#461D7C "
+ color = "#461D7C"
   
   # Background gradient.
-  # gradient_start = "DarkGreen"
-  # gradient_end = "ForestGreen"
+  # gradient_start = "dark_purple"
+   # gradient_end = "white"
   
   # Background image.
-   # image = "yellow stripes copy.jpg"  # Name of image in `static/media/`.
+   image = "Pathways Purple T.png"  # Name of image in `static/media/`.
    # image_darken = 1
+   
 
    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-   image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
+  image_size = "actual"  #  Options are `cover` (default), `contain`, or `actual` size.
+   image_position = "left"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = false  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   text_color_light = true
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["50px", "0", "20px", "350px"]
  
 [advanced]
  # Custom CSS. 
@@ -63,8 +64,6 @@ title = "**LSU Pathways** STEM Certification"
 
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*. ---!>
-
 <!-- {{% callout note %}} -->
 
 <!-- {{% /callout %}} -->
@@ -73,17 +72,11 @@ Backgrounds can be applied to any section. Here, the *background* option is set 
 <!-- [Check out the Markdown files](https://github.com/wowchemy/starter-academic/tree/master/exampleSite) which power the [Academic Demo](https://academic-demo.netlify.app), or [view the showcase](https://wowchemy.com/user-stories/). -->
 <center>
 
- ## LSU Pathways is a program designed for K-12 students in the Louisiana public school system to get hands-on training with STEM subjects in biomedical sciences, computing, digital design and emergent media, and pre-engineering. 
+## LSU Pathways is a program designed for K-12 students in the Louisiana public school system to get hands-on training with STEM subjects in biomedical sciences, computing, digital design and emergent media, and pre-engineering. 
 
 
 ## LSU partners with schools across the state to prepare teachers, students, and administrative staff for the curriculum.
-
+</center>
 <br>
 
-<!-- figure out how to host the photos here instead of img src link -->
 
-
- <!-- <img src="https://media.edutopia.org/styles/responsive_1100px_original/s3/masters/d7_images/cover_media/davis-169hero2-teachcode-twenty20.jpg" alt="Placeholder" width="800" height="700"> 
- <br></br> -->
-
-</center>

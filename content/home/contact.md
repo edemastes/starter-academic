@@ -27,4 +27,7 @@ content:
   
 design:
   columns: '2'
+
+# design_spacing: 
+#   spacing: '50', '0', '20', '350'
 ---

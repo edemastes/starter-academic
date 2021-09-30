@@ -5,7 +5,7 @@
 
 widget = "blank"  # See https://wowchemy.com/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = true # Activate this widget? true/false
 weight = 15  # Order that this section will appear.
 
 # title = "**LSU Pathways** STEM Certification"
@@ -31,7 +31,7 @@ weight = 15  # Order that this section will appear.
   # gradient_end = "ForestGreen"
   
   # Background image.
-   image = "yellow stripes copy.jpg"  # Name of image in `static/media/`.
+  image = "yellow stripes copy.jpg"  # Name of image in `static/media/`.
    # image_darken = 1
 
    # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
