@@ -39,13 +39,18 @@ weight: 20
 <br></br>
 
 ----
-## Learn more about teaching with each program:
+## Learn more about teaching with each program.
 <br>
 
-<a href="TeacherFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing  </button></a> 
+<a href="TeacherFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing for High School </button></a> 
 <br></br>
-<a href="DDEMTeachersFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media  </button></a> 
+<a href="DDEMTeachersFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media for High School  </button></a> 
 <br></br>
-<a href="Pre-EngineeringTeacherFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering  </button></a> 
+<a href="Pre-EngineeringTeacherFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering for High School </button></a> 
+<br></br>
+<a href="MiddleSchoolTeacher.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Middle School STEM Cohort  </button></a> 
+<br></br>
+<a href="Elementary School Cohort Brochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border-color: #fdd023"> Elementary School Pathways </button></a>
 
+<br>
 

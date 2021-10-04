@@ -37,6 +37,9 @@ header:
 ## LSU Pathways for high school is a robust curriulum designed for in-depth study of one of four available STEM pathways. Students can study biomedical sciences, computing, digital design and emergent media, or pre-engineering. 
 <br>
 
+*Click on a dropdown below for more details and syllabi for each pathway.*
+
+<br>
 
 {{< spoiler text="Biomedical Sciences" >}}
    #### Core Courses:
@@ -81,7 +84,7 @@ header:
 {{< /spoiler >}}
 
 {{< spoiler text="Computing" >}}
- This pathway is currently a key part of 2 major grants from the National Science Foundation and US Department of Education. The computing pathway is part of a research partnership with the East Baton Rouge Public School System. For more information on BRBYTES please visit <a href="https://www.brbytes.org/" Target="_blank">www.brbytes.org</a> 
+ This pathway is currently a key part of 2 major grants from the National Science Foundation and US Department of Education. The computing pathway is part of a research partnership with the East Baton Rouge Public School System. For more information on BRBYTES please visit <a href="https://www.brbytes.org/" Target="_blank">brbytes.org</a> 
 
  
    #### Core Courses:

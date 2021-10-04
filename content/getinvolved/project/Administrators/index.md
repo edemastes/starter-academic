@@ -28,13 +28,14 @@ weight: 25
 
 ## Learn more about each program.
 <br>
-<a href="GeneralCounselorFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing  </button></a> 
+<a href="GeneralCounselorFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing for High School  </button></a> 
 <br></br>
-<a href="DDEMAdministratorsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media  </button></a> 
+<a href="DDEMAdministratorsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media for High School </button></a> 
 <br></br>
-<a href="Pre-EngineeringAdministrationFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering  </button></a> 
+<a href="Pre-EngineeringAdministrationFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering for High School </button></a> 
 <br></br>
-<!-- ![](../../../about/about%204.png) -->
+<a href="MiddleSchoolAdmin.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Middle School STEM Cohort </button></a> 
+<br></br>
 
 ---- 
 ## Who Does LSU STEM Pathways?

@@ -12,9 +12,20 @@ design:
   columns: '1'
   
 ---
+<center>
+
 ## **Why LSU Pathways?**
+## *Pathways in the News*
 
 {{<video src="LPB-Rethinking-Education.mp4" controls="yes" >}}
+
+<br>
+
+<a href="https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/article_140b2d96-fc56-11eb-a23e-f705caf80b8c.html" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Read About Pathways in the Baton Rouge Advocate </button></a> 
+
+<br>
+
+---
 
 <br>
 
@@ -25,14 +36,33 @@ design:
   <source src="Franklin Engineering Zoom Goldberg Machine (1) (1).mp4" type="video/mp4"></video>
 <video controls poster= "HHS.png">
   <source src="HHMS Engineering Program.mp4"type="video/mp4"></video>
-<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/7z1R_pSNKCk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> </center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7z1R_pSNKCk" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
+
+
+<br></br>
+
+----
 
 <br>
 
-<a href="https://www.libertymagnet.com/stem-pathways" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways at Liberty Magnet High </button></a> 
+## **More About Each High School Pathway Program**
+
+<br>
+
+ <iframe width="560" height="315" src="https://www.youtube.com/embed/JyZOFH_eDbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/otu6FKMVNbc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BQMZ_lofXTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br></br>
-<a href="https://www.theadvocate.com/baton_rouge/news/communities/livingston_tangipahoa/article_140b2d96-fc56-11eb-a23e-f705caf80b8c.html" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Read About Pathways in the Baton Rouge Advocate </button></a>
-<br></br>
+
+<a href="https://www.libertymagnet.com/stem-pathways" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> More About Pathways at Liberty Magnet High </button></a>
+
+
+<br>
+
+-----
+
+<br>
 
 ## **An In-Depth Look at Pathways Classes**
 {{<video src="DSHS STEM Class Offerings - Intro to Robotics-FwQrw9B5pLo.mp4" type="video/mp4"controls="yes">}}
@@ -51,7 +81,7 @@ design:
 {{<video src="DSHS STEM Class Offerings - Data Manipulation & Analysis-WETzzKyQmvA.mp4" controls="yes">}}
 
 
-
+</center>
 
 
 

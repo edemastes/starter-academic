@@ -22,7 +22,7 @@ weight: 10
 
 <a href="PathwayChart.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways STEM Courses </button></a> 
 <br></br>
-<a href="CourseDescriptions2020March_24.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> In-Depth Course Descriptions </button></a> 
+<a href="CourseDescriptions2020March_24.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> In-Depth High School Course Descriptions </button></a> 
 <br></br>
 
 ----
@@ -30,18 +30,22 @@ weight: 10
 ## Learn more about each STEM pathway.
 <br>
 
-<a href="StudentFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing  </button></a> 
+<a href="StudentFlyer.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Computing for High School </button></a> 
 <br></br>
-<a href="DDEMStudentsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media  </button></a> 
+<a href="DDEMStudentsFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Digital Design and Emergent Media for High School </button></a> 
 <br></br>
-<a href="Pre-EngineeringStudentFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering  </button></a> 
+<a href="Pre-EngineeringStudentFlyer_updatedMarch7.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pre-Engineering for High School </button></a> 
+<br></br>
+<a href="MiddleSchoolStudent.pdf" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Middle School STEM Cohort </button></a> 
 <br></br>
 
 ----
+<br>
 
 ## Learn more about Pathways for High School. View curriculum and syllabi.
 <br>
-<a href="/project/high-school/" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways for High School </button></a> <br></br>
+<a href="/project/high-school/" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways for High School </button></a> 
+<br></br>
 
 ----
 
@@ -49,5 +53,8 @@ weight: 10
 <br>
 
 <a href="/project/middle-school/" target="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Pathways for Middle School </button></a> <br></br>
+
+
+
 
 

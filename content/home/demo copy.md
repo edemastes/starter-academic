@@ -31,7 +31,7 @@ weight = 16  # Order that this section will appear.
    # gradient_end = "white"
   
   # Background image.
-   image = "Pathways Purple T.png"  # Name of image in `static/media/`.
+   # image = "Pathways Purple T.png"  # Name of image in `static/media/`.
    # image_darken = 1
    
 
@@ -45,7 +45,7 @@ weight = 16  # Order that this section will appear.
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["50px", "0", "20px", "350px"]
+  padding = ["50px", "0", "20px", "0px"]
  
 [advanced]
  # Custom CSS. 

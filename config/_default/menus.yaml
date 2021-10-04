@@ -5,8 +5,8 @@
 
 main:
   # - name: Home
-  #   url: '#about'
-    # weight: 10
+  #   url: '#demo/'
+  #   weight: 10
   - name: About
     url: 'about/'
     weight: 20
