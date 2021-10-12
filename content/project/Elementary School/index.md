@@ -1,7 +1,7 @@
 ---
 title: Elementary School
 summary: 
-weight: 3
+weight: 5
 header: 
   image: "header.jpg"
 # tags:
@@ -27,3 +27,5 @@ With this program, the LSU Pathways team provides training to elementary school 
 <br>
 
 <a href="Elementary School Cohort Brochure.pdf" target="_blank"> <button style= "background-color:#fdd023; border-color: #fdd023"> Elementary School Pathways Introduction </button></a>
+<br></br>
+<a href="summer 2022 PATHWAY.pdf" target ="_blank"><button style= "background-color:#fdd023; border-color: #fdd023"> Elementary School STEM Pathway Module Descriptions </button></a>
