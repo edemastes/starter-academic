@@ -38,6 +38,7 @@ LSU STEM Pathways provides high school students with the opportunity to enroll i
 
 ## Who Does LSU STEM Pathways?
 {{< spoiler text="View School List" >}}
+
 - Alfred M. Barbe High School
 - Amite High Magnet
 - Baker High School
@@ -115,24 +116,22 @@ LSU STEM Pathways provides high school students with the opportunity to enroll i
 - Woodlawn High School 
 - Woodlawn Middle School
 - Zachary High School
-<br>
+
 {{< /spoiler >}}
 
 ![LSU Pathways Map](About%202.png)
 <!-- Lee needs to be changed to Liberty here -->
 
-<br>
+
 From 2020 on, supported by federal funding, LSU and the East Baton Rouge Parish School System have expanded the LSU Computing Pathway to middle schools and will expand the reach of Introduction to Computational Thinking, a foundational core course in all four LSU STEM Pathways, to schools across the state. Moreover, a collaborative effort of the Louisiana Department of Education, the RAND Corporation, BloomBoard, and LSU will be rolling out Micro-Credentials for STEM Pathway teachers.
-<br></br>
+
 The statewide rollout of the LSU STEM Certification Pathways is a joint effort of the Louisiana Department of Education, Liberty Magnet High School, and faculty from Louisiana State University’s Gordon A. Cain Center for STEM Literacy, College of Engineering, College of Science, School of Art, School of Music, and the LSU Center for Computation & Technology.
-<br></br>
+<br><br>
  
  ## In short, LSU STEM Certification Pathways provides:
 
 - Students with the opportunity to enroll in a specialized program of project-based courses.
-
 - Teachers with the opportunity to further their academic credentials by participating in intensive graduate-level LSU Pathways training courses.
-
 - School districts with additional state funding.
 
 <br>
